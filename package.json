@@ -1,0 +1,22 @@
+{
+  "name": "security-jira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjordan-atlassian/security-jira.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjordan-atlassian/security-jira/issues"
+  },
+  "homepage": "https://github.com/mjordan-atlassian/security-jira#readme",
+  "dependencies": {
+    "progressbar.js": "^1.1.0"
+  }
+}
